@@ -8,7 +8,7 @@ billiard==3.3.0.23
 celery==3.1.26.post2
 certifi==2019.6.16
 chardet==3.0.4
-Django==2.2.2
+Django==2.2.13
 django-celery==3.2.2
 django-redis==4.10.0
 django-simpleui==2.1.4.619
