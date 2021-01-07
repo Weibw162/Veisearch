@@ -18,7 +18,7 @@ idna==2.8
 idna-ssl==1.1.0
 import-string==0.1.0
 kombu==3.0.37
-lxml==3.7.2
+lxml==4.6.2
 multidict==4.5.2
 mysqlclient==1.4.2.post1
 Pillow==6.0.0
